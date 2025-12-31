@@ -45,9 +45,13 @@ O objetivo principal do trabalho é explorar **técnicas de visualização cient
 ├── triTable.txt      # Tabela de triangulação do algoritmo Marching Cubes
 └── README.md         # Documentação do projeto
 
-Rodar no terminal
+```
+
+## 💻 Rodar no terminal
+
+```bash
 g++ main.cpp -o marching_cubes.exe -std=c++17 -lglfw3 -lglew32 -lopengl32
 ./marching_cubes.exe
-
+```
 
 <img width="799" height="634" alt="image" src="https://github.com/user-attachments/assets/f8c34b18-e4d9-4584-8693-ba2831855644" />
